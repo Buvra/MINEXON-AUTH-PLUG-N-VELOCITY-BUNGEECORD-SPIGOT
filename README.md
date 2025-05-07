@@ -18,6 +18,6 @@ Bu proje, açık kaynaklı LibreLogin üzerine inşa edilmiştir. Kodlar tarafı
 📌 GitHub Üzerinden Destek Olun:
 Projeyi faydalı bulduysanız GitHub repo'ma bir ⭐ bırakmayı unutmayın! Böylece gelişime katkıda bulunur ve daha fazla geliştiriciye ulaşmasına yardımcı olursunuz.
 
-📬 Yardım, öneri veya katkı için bana her zaman ulaşabilirsiniz: Discord: Buvra
+📬 Yardım, öneri veya katkı için bana her zaman ulaşabilirsiniz: Discord: Buwra
 
 ![image](https://github.com/user-attachments/assets/6d4d9311-ee25-4283-b779-716381f573dc)
