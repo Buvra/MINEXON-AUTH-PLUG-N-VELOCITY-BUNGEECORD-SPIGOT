@@ -22,5 +22,7 @@ SHA-256 KULLANIN!
 
 📬 Yardım, öneri veya katkı için bana her zaman ulaşabilirsiniz: Discord: Buwra
 
+VirüsTotal Link: https://www.virustotal.com/gui/file/14fc93b7bf7536cf8f442b2b91a9a3f58550006ec6705d3817a74499f9f8b0cd/detection
+
 Nano Limbo: https://www.spigotmc.org/resources/nanolimboplugin.105297/
 ![image](https://github.com/user-attachments/assets/6d4d9311-ee25-4283-b779-716381f573dc)
