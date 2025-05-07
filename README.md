@@ -22,4 +22,5 @@ SHA-256 KULLANIN!
 
 📬 Yardım, öneri veya katkı için bana her zaman ulaşabilirsiniz: Discord: Buwra
 
+Nano Limbo: https://www.spigotmc.org/resources/nanolimboplugin.105297/
 ![image](https://github.com/user-attachments/assets/6d4d9311-ee25-4283-b779-716381f573dc)
